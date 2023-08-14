@@ -3,7 +3,7 @@
 ---
 ### Studies & Interests
 - 📚 I'm an undergraduate student pursuing an interdisciplinary degree in Mathematics and Computer Science. 
-- 🌱 My primary interests lie in environmental modeling and the application of artificial intelligence for sustainable development 
+- 🌱 My primary interests lie in environmental modelling and the application of artificial intelligence for sustainable development 
 ---
 ### Work 
 - 💼 I'm currently a student researcher at the Jozef Stefan Institute, working in the Parallel and Distributed Systems Laboratory. My primary focus is on:
