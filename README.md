@@ -12,11 +12,10 @@
   * HRV Analysis and Algorithm Development
 ---
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,linux,git)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,linux,git)](https://skillicons.dev)\
+`Java` `Python` `C` `Linux` `Git`
 
 ---
-### Contacts
 - 📫 How to reach me:
   * linkedin: [in/janjure](https://www.linkedin.com/in/jan-jure-stojanovi%C4%8D-139964237/)
   * email: jan@stojanovic.si
