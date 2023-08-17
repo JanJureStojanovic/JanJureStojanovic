@@ -11,6 +11,12 @@
   * Data Validity and Microscale Models
   * HRV Analysis and Algorithm Development
 ---
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,linux,git)](https://skillicons.dev)
+
+
+---
+### Contacts
 - 📫 How to reach me:
   * linkedin: [in/janjure](https://www.linkedin.com/in/jan-jure-stojanovi%C4%8D-139964237/)
   * email: jan@stojanovic.si
