@@ -12,8 +12,8 @@
   * HRV Analysis and Algorithm Development
 ---
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,linux,git)](https://skillicons.dev)\
-`Java` `Python` `C` `Linux` `Git`
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,linux,git)](https://skillicons.dev)\
+`Java` `Python` `C` `C++` `Linux` `Git`
 
 ---
 - 📫 How to reach me:
