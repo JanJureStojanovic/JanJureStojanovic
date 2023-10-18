@@ -6,7 +6,7 @@
 - 🌱 My primary interests lie in environmental modelling and the application of artificial intelligence for sustainable development 
 ---
 ### Work 
-- 💼 I'm currently a student researcher at the Jozef Stefan Institute, working in the Parallel and Distributed Systems Laboratory. My primary focus is on:
+- 💼 I've worked as a student researcher at the Jozef Stefan Institute, working in the Parallel and Distributed Systems Laboratory. My primary focus was on:
   * Weather Data Analysis
   * Data Validity and Microscale Models
   * HRV Analysis and Algorithm Development
