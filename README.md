@@ -2,7 +2,7 @@
 ### Welcome to my github profile! 👋
 ---
 ### Studies & Interests
-- 📚 I'm an undergraduate student pursuing an interdisciplinary degree in Mathematics and Computer Science. 
+- 📚 I'm an undergraduate student pursuing an interdisciplinary degree in Mathematics and Computer Science
 - 🌱 My primary interests lie in environmental modelling and the application of artificial intelligence for sustainable development 
 ---
 ### Work 
